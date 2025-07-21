@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pizza",
+    "category": "bakery",
+    "price": 50,
+    "availability": "unavialable"
+  },
+  {
+    "name": "alfredo",
+    "category": "italian",
+    "price": 299,
+    "availability": "available"
+  },
+  {
+    "name": "super chrunchy",
+    "category": "sandwitches",
+    "price": 139,
+    "availability": "available"
+  },
+  {
+    "name": "burger",
+    "category": "sandwitches",
+    "price": 80,
+    "availability": "available"
+  }
+]

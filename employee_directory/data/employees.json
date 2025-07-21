@@ -1,0 +1,38 @@
+[
+  {
+    "id": 139,
+    "name": "Tawfik",
+    "department": "accounting",
+    "jobTitle": "manager"
+  },
+  {
+    "id": 112,
+    "name": "youssef",
+    "department": "a1",
+    "jobTitle": "developer"
+  },
+  {
+    "id": 111,
+    "name": "amir",
+    "department": "sales",
+    "jobTitle": "sales manager"
+  },
+  {
+    "id": 135,
+    "name": "omar",
+    "department": "b3",
+    "jobTitle": "chef"
+  },
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "department": "IT",
+    "jobTitle": "Developer"
+  },
+  {
+    "id": 2,
+    "name": "Mona",
+    "department": "HR",
+    "jobTitle": "assistance"
+  }
+]
